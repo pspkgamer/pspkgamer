@@ -8,7 +8,7 @@ RUN apt-get update -y && \
         python3-pip \
         git \
         ffmpeg && \
-    git clone https://github.com/sangramghangale47/TelegramMusicBot && \
+    git clone https://github.com/pspkgamer/pspkgamer && \
     cd TelegramMusicBot && \
     git clone https://github.com/RonalAlfianto/pytgcalls && \
     cd pytgcalls && \
